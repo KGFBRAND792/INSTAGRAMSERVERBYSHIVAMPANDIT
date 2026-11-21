@@ -11,7 +11,7 @@
 ```text
 insta-bulk-sender/
 │
-├── index.js                # मुख्य Express बैकएंड सर्वर फ़ाइल
+├── app.py            # मुख्य Express बैकएंड सर्वर फ़ाइल
 ├── package.json            # आवश्यक डिपेंडेंसी और स्क्रिप्ट्स
 ├── README.md               # प्रोजेक्ट की जानकारी (यह फ़ाइल)
 └── public/
