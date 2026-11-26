@@ -1,4 +1,4 @@
-# 💀 Instagram Bulk Sender Web App (Node.js)
+hgh# 💀 Instagram Bulk Sender Web App (Node.js)
 
 एक पावरफुल और लाइटवेट **Instagram Direct Bulk Message Automation Tool** जो Node.js (Express), Axios और मॉडर्न रेस्पॉन्सिव UI पर आधारित है।
 
@@ -11,7 +11,7 @@
 ```text
 insta-bulk-sender/
 │
-├── main.py            # मुख्य Express बैकएंड सर्वर फ़ाइल
+├── index.js          # मुख्य Express बैकएंड सर्वर फ़ाइल
 ├── package.json            # आवश्यक डिपेंडेंसी और स्क्रिप्ट्स
 ├── README.md               # प्रोजेक्ट की जानकारी (यह फ़ाइल)
 └── public/
